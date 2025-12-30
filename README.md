@@ -1,6 +1,6 @@
 # 💫 About Me
 
-- **🖥 Home Lab Enthusiast:** Running **Ubuntu Server** on home hardware
+- **🖥 Home Lab Enthusiast:** Running **Proxmox** on home hardware
 - **🤖 AI Explorer:** Experimenting with self-hosted AI assistants (Ollama)
 - **🐳 Docker User:** Containerized applications
 - **🌐 Web Hosting:** Hosting websites and small web tools
